@@ -117,7 +117,6 @@ namespace Storage.NHibernate
                             break;
                         default:
                             throw new InvalidOperationException();
-                            break;
                     }                        
                 }
 
